@@ -1,0 +1,2 @@
+$ git remote add repo_b username@host:path/to/repository.git
+$ git pull repo_b master
